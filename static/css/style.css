@@ -13,3 +13,6 @@ position: relative;
   top:0;
   right:0;
 }
+.video h2 {
+  display: none;
+}
